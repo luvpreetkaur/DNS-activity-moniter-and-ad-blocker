@@ -1,0 +1,1 @@
+This folder should include all the files from dns2proxy project with the config you used
