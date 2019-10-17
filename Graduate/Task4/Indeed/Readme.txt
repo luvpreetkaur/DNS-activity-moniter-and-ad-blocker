@@ -1,0 +1,1 @@
+Modified dns2proxyfile such that the websites in the spoof file will not be loaded as a local domain ip address is assigned to them (192.168.127.128).
