@@ -1,667 +1,400 @@
 
-google.com.: 14 Time:18:00:56.251
+google.com.: 19 Time:15:01:56.574
 1.google.com.
 2.google.com.
-3.www.google.com.
+3.google.com.
 4.www.google.com.
-5.ssl.gstatic.com.
-6.ssl.gstatic.com.
-7.www.gstatic.com.
-8.www.gstatic.com.
-9.apis.google.com.
-10.apis.google.com.
-11.adservice.google.com.
-12.adservice.google.com.
-13.googleads.g.doubleclick.net.
-14.googleads.g.doubleclick.net.
-
-www.google.com.: 32 Time:18:02:15.322
-1.fbsbx.com.
-2.connect.facebook.net.
-3.connect.facebook.net.
-4.staticxx.facebook.com.
-5.staticxx.facebook.com.
-6.googleads.g.doubleclick.net.
-7.googleads.g.doubleclick.net.
-8.cx.atdmt.com.
-9.www.gstatic.com.
+5.www.google.com.
+6.www.google.com.
+7.ssl.gstatic.com.
+8.ssl.gstatic.com.
+9.ssl.gstatic.com.
 10.www.gstatic.com.
-11.fonts.googleapis.com.
-12.fonts.googleapis.com.
-13.ocsp.pki.goog.
-14.ocsp.pki.goog.
-15.www.facebook.com.
-16.www.facebook.com.
-17.debian.localdomain.
-18.www.facebook.com.
-19.www.facebook.com.
-20.duckduckgo.com.
-21.youtube.localdomain.
-22.youtube.localdomain.
-23.youtube.localdomain.
-24.improving.duckduckgo.com.
-25.improving.duckduckgo.com.
-26.proxy.duckduckgo.com.
-27.proxy.duckduckgo.com.
-28.www.youtube.com.
-29.www.youtube.com.
-30.s.ytimg.com.
-31.s.ytimg.com.
-32.i.ytimg.com.
+11.www.gstatic.com.
+12.apis.google.com.
+13.apis.google.com.
+14.apis.google.com.
+15.adservice.google.com.
+16.adservice.google.com.
+17.adservice.google.com.
+18.play.google.com.
+19.play.google.com.
 
-www.facebook.com.: 2 Time:18:03:08.598
-1.services.addons.mozilla.org.
-2.ocsp.digicert.com.
+yahoo.com.: 173 Time:15:03:59.626
+1.yahoo.com.
+2.www.yahoo.com.
+3.www.yahoo.com.
+4.s.yimg.com.
+5.s.yimg.com.
+6.s.yimg.com.
+7.s2.yimg.com.
+8.s2.yimg.com.
+9.s2.yimg.com.
+10.s1.yimg.com.
+11.s1.yimg.com.
+12.s1.yimg.com.
+13.s3.yimg.com.
+14.s3.yimg.com.
+15.s3.yimg.com.
+16.guce.yahoo.com.
+17.guce.yahoo.com.
+18.guce.yahoo.com.
+19.aka-cdn.adtechus.com.
+20.aka-cdn.adtechus.com.
+21.aka-cdn.adtechus.com.
+22.na.ads.yahoo.com.
+23.na.ads.yahoo.com.
+24.na.ads.yahoo.com.
+25.adserver.adtechus.com.
+26.adserver.adtechus.com.
+27.adserver.adtechus.com.
+28.ads.yahoo.com.
+29.ads.yahoo.com.
+30.ads.yahoo.com.
+31.www.googletagservices.com.
+32.www.googletagservices.com.
+33.www.googletagservices.com.
+34.us.y.atwola.com.
+35.us.y.atwola.com.
+36.us.y.atwola.com.
+37.udc.yahoo.com.
+38.udc.yahoo.com.
+39.tag.sp.advertising.com.
+40.tag.sp.advertising.com.
+41.pr-bh.ybp.yahoo.com.
+42.pr-bh.ybp.yahoo.com.
+43.ad.doubleclick.net.
+44.ad.doubleclick.net.
+45.sb.scorecardresearch.com.
+46.sb.scorecardresearch.com.
+47.udc.yahoo.com.
+48.pr-bh.ybp.yahoo.com.
+49.ad.doubleclick.net.
+50.sb.scorecardresearch.com.
+51.ocsp.pki.goog.
+52.ocsp.pki.goog.
+53.ocsp.pki.goog.
+54.pagead2.googlesyndication.com.
+55.pagead2.googlesyndication.com.
+56.atpixelus.alephd.com.
+57.atpixelus.alephd.com.
+58.atpixelus.alephd.com.
+59.dis.criteo.com.
+60.dis.criteo.com.
+61.dis.criteo.com.
+62.www.yahoo.com.
+63.www.yahoo.com.
+64.cms.analytics.yahoo.com.
+65.cms.analytics.yahoo.com.
+66.cms.analytics.yahoo.com.
+67.us-u.openx.net.
+68.us-u.openx.net.
+69.geo.yahoo.com.
+70.geo.yahoo.com.
+71.us-u.openx.net.
+72.geo.yahoo.com.
+73.adservice.google.com.
+74.adservice.google.com.
+75.googleads.g.doubleclick.net.
+76.googleads.g.doubleclick.net.
+77.2mdn.net.
+78.2mdn.net.
+79.tpc.googlesyndication.com.
+80.tpc.googlesyndication.com.
+81.googleads.g.doubleclick.net.
+82.2mdn.net.
+83.udc.yahoo.com.
+84.udc.yahoo.com.
+85.sync.adaptv.advertising.com.
+86.sync.adaptv.advertising.com.
+87.sync.adaptv.advertising.com.
+88.udc.yahoo.com.
+89.udc.yahoo.com.
+90.auth.svcs.verizon.com.
+91.auth.svcs.verizon.com.
+92.dpm.demdex.net.
+93.dpm.demdex.net.
+94.pixel.advertising.com.
+95.pixel.advertising.com.
+96.px.owneriq.net.
+97.px.owneriq.net.
+98.match.prod.bidr.io.
+99.match.prod.bidr.io.
+100.contextual.media.net.
+101.contextual.media.net.
+102.oxp.mxptint.net.
+103.oxp.mxptint.net.
+104.magnetic.t.domdex.com.
+105.magnetic.t.domdex.com.
+106.rtb.gumgum.com.
+107.rtb.gumgum.com.
+108.auth.svcs.verizon.com.
+109.dpm.demdex.net.
+110.pixel.advertising.com.
+111.px.owneriq.net.
+112.match.prod.bidr.io.
+113.contextual.media.net.
+114.magnetic.t.domdex.com.
+115.sb.voicefive.com.
+116.sb.voicefive.com.
+117.googleads4.g.doubleclick.net.
+118.googleads4.g.doubleclick.net.
+119.pixel.mtrcs.samba.tv.
+120.pixel.mtrcs.samba.tv.
+121.secure.insightexpressai.com.
+122.secure.insightexpressai.com.
+123.s.amazon-adsystem.com.
+124.s.amazon-adsystem.com.
+125.sb.voicefive.com.
+126.googleads4.g.doubleclick.net.
+127.pixel.mtrcs.samba.tv.
+128.secure.insightexpressai.com.
+129.s.amazon-adsystem.com.
+130.2mdn.net.
+131.2mdn.net.
+132.2mdn.net.
+133.www.google-analytics.com.
+134.www.google-analytics.com.
+135.www.google.com.
+136.www.google.com.
+137.ade.googlesyndication.com.
+138.ade.googlesyndication.com.
+139.ade.googlesyndication.com.
+140.sca1b.amazontrust.com.
+141.sca1b.amazontrust.com.
+142.sca1b.amazontrust.com.
+143.beap-bc.yahoo.com.
+144.beap-bc.yahoo.com.
+145.sa.scorecardresearch.com.
+146.sa.scorecardresearch.com.
+147.sa.scorecardresearch.com.
+148.2mdn.net.
+149.2mdn.net.
+150.2mdn.net.
+151.tr.blismedia.com.
+152.tr.blismedia.com.
+153.cmi.netseer.com.
+154.cmi.netseer.com.
+155.match.rundsp.com.
+156.match.rundsp.com.
+157.openx2-match.dotomi.com.
+158.openx2-match.dotomi.com.
+159.media6degrees.com.
+160.media6degrees.com.
+161.match.rundsp.com.
+162.media6degrees.com.
+163.ocsp.digicert.com.
+164.ocsp.digicert.com.
+165.ocsp.digicert.com.
+166.ocsp.comodoca.com.
+167.ocsp.comodoca.com.
+168.ocsp.comodoca.com.
+169.stags.bluekai.com.
+170.stags.bluekai.com.
+171.stags.bluekai.com.
+172.sb.scorecardresearch.com.
+173.sb.scorecardresearch.com.
 
-youtube.localdomain.: 29 Time:18:03:08.737
-1.improving.duckduckgo.com.
-2.proxy.duckduckgo.com.
-3.proxy.duckduckgo.com.
-4.www.youtube.com.
-5.www.youtube.com.
-6.s.ytimg.com.
-7.s.ytimg.com.
-8.i.ytimg.com.
-9.i.ytimg.com.
-10.yt3.ggpht.com.
-11.yt3.ggpht.com.
-12.accounts.google.com.
-13.accounts.google.com.
-14.fonts.gstatic.com.
-15.fonts.gstatic.com.
-16.ocsp.pki.goog.
-17.ocsp.pki.goog.
-18.googleads.g.doubleclick.net.
-19.googleads.g.doubleclick.net.
-20.www.google.com.
-21.www.google.com.
-22.www.youtube.com.
-23.www.youtube.com.
-24.www.youtube.com.
-25.www.youtube.com.
-26.www.youtube.com.
-27.services.addons.mozilla.org.
-28.services.addons.mozilla.org.
-29.ocsp.digicert.com.
-
-services.addons.mozilla.org.: 135 Time:18:04:02.005
-1.sb.scorecardresearch.com.
-2.sb.scorecardresearch.com.
-3.x.bidswitch.net.
-4.x.bidswitch.net.
-5.cm.g.doubleclick.net.
-6.cm.g.doubleclick.net.
-7.rtb.openx.net.
-8.match.adsrvr.org.
-9.match.adsrvr.org.
-10.adserver.adtech.advertising.com.
-11.adserver.adtech.advertising.com.
-12.ocsp.comodoca.com.
-13.ocsp.comodoca.com.
-14.udc.yahoo.com.
-15.udc.yahoo.com.
-16.udc.yahoo.com.
-17.udc.yahoo.com.
-18.www.yahoo.com.
-19.www.yahoo.com.
-20.geo.yahoo.com.
-21.geo.yahoo.com.
-22.ocsp.trustwave.com.
-23.ocsp.trustwave.com.
-24.beacon.krxd.net.
-25.beacon.krxd.net.
-26.udc.yahoo.com.
-27.udc.yahoo.com.
-28.www.yahoo.com.
-29.udc.yahoo.com.
-30.udc.yahoo.com.
-31.ocsp.godaddy.com.
-32.ocsp.godaddy.com.
-33.udc.yahoo.com.
-34.udc.yahoo.com.
-35.pagead2.googlesyndication.com.
-36.pagead2.googlesyndication.com.
-37.atpixelus.alephd.com.
-38.atpixelus.alephd.com.
-39.pixel.advertising.com.
-40.pixel.advertising.com.
-41.sync.mathtag.com.
-42.sync.mathtag.com.
-43.ad.turn.com.
-44.ad.turn.com.
-45.p.rfihub.com.
-46.p.rfihub.com.
-47.ib.adnxs.com.
-48.ib.adnxs.com.
-49.pixel.quantserve.com.
-50.aol-match.dotomi.com.
-51.pr-bh.ybp.yahoo.com.
-52.pr-bh.ybp.yahoo.com.
-53.ssum-sec.casalemedia.com.
-54.ssum-sec.casalemedia.com.
-55.ads.pubmatic.com.
-56.ads.pubmatic.com.
-57.match.prod.bidr.io.
-58.match.prod.bidr.io.
-59.adservice.google.com.
-60.adservice.google.com.
-61.adservice.google.com.
-62.googleads.g.doubleclick.net.
-63.googleads.g.doubleclick.net.
-64.www.googletagservices.com.
-65.sca1b.amazontrust.com.
-66.sca1b.amazontrust.com.
-67.cdn.digitru.st.
-68.w55c.net.
-69.w55c.net.
-70.cm.adgrx.com.
-71.cm.adgrx.com.
-72.media6degrees.com.
-73.media6degrees.com.
-74.casale-match.dotomi.com.
-75.casale-match.dotomi.com.
-76.image6.pubmatic.com.
-77.image6.pubmatic.com.
-78.na.ads.yahoo.com.
-79.na.ads.yahoo.com.
-80.dsum-sec.casalemedia.com.
-81.dsum-sec.casalemedia.com.
-82.p.adsymptotic.com.
-83.p.adsymptotic.com.
+www.yahoo.com.: 108 Time:15:05:07.511
+1.www.yahoo.com.
+2.s.yimg.com.
+3.s.yimg.com.
+4.na.ads.yahoo.com.
+5.na.ads.yahoo.com.
+6.na.ads.yahoo.com.
+7.nym1-ib.adnxs.com.
+8.nym1-ib.adnxs.com.
+9.ads.yahoo.com.
+10.ads.yahoo.com.
+11.ads.yahoo.com.
+12.ib.adnxs.com.
+13.ib.adnxs.com.
+14.cdn.adnxs.com.
+15.cdn.adnxs.com.
+16.ib.adnxs.com.
+17.m.accmgr.com.
+18.m.accmgr.com.
+19.acdn.adnxs.com.
+20.acdn.adnxs.com.
+21.cdn.doubleverify.com.
+22.cdn.doubleverify.com.
+23.sync.mathtag.com.
+24.sync.mathtag.com.
+25.sync.mathtag.com.
+26.cm.g.doubleclick.net.
+27.cm.g.doubleclick.net.
+28.cm.g.doubleclick.net.
+29.c.bing.com.
+30.c.bing.com.
+31.mookie1.com.
+32.mookie1.com.
+33.pr-bh.ybp.yahoo.com.
+34.pr-bh.ybp.yahoo.com.
+35.pixel.rubiconproject.com.
+36.pixel.rubiconproject.com.
+37.cms.quantserve.com.
+38.cms.quantserve.com.
+39.pixel.rubiconproject.com.
+40.cms.quantserve.com.
+41.dis.criteo.com.
+42.dis.criteo.com.
+43.match.adsrvr.org.
+44.match.adsrvr.org.
+45.rtb0.doubleverify.com.
+46.rtb0.doubleverify.com.
+47.dis.criteo.com.
+48.match.adsrvr.org.
+49.ocsp.pki.goog.
+50.ocsp.pki.goog.
+51.m.adnxs.com.
+52.m.adnxs.com.
+53.ocsp.digicert.com.
+54.ocsp.digicert.com.
+55.ocsp.netsolssl.com.
+56.ocsp.netsolssl.com.
+57.pixel.tapad.com.
+58.pixel.tapad.com.
+59.tps620.doubleverify.com.
+60.tps620.doubleverify.com.
+61.www.googletagservices.com.
+62.www.googletagservices.com.
+63.cdn3.doubleverify.com.
+64.cdn3.doubleverify.com.
+65.ad.doubleclick.net.
+66.ad.doubleclick.net.
+67.2mdn.net.
+68.2mdn.net.
+69.tpc.googlesyndication.com.
+70.tpc.googlesyndication.com.
+71.pagead2.googlesyndication.com.
+72.pagead2.googlesyndication.com.
+73.googleads4.g.doubleclick.net.
+74.googleads4.g.doubleclick.net.
+75.d.agkn.com.
+76.d.agkn.com.
+77.homedepot.demdex.net.
+78.homedepot.demdex.net.
+79.d.agkn.com.
+80.tps30.doubleverify.com.
+81.tps30.doubleverify.com.
+82.tps.doubleverify.com.
+83.tps.doubleverify.com.
 84.c1.adform.net.
 85.c1.adform.net.
-86.sync-tm.everesttech.net.
-87.sync-tm.everesttech.net.
-88.pixel-sync.sitescout.com.
-89.pixel-sync.sitescout.com.
-90.um.simpli.fi.
-91.um.simpli.fi.
-92.pubmatic2waycm-atl.netmng.com.
-93.pubmatic2waycm-atl.netmng.com.
-94.dis.criteo.com.
-95.dis.criteo.com.
-96.pmp.mxptint.net.
-97.pmp.mxptint.net.
-98.pubmatic-match.dotomi.com.
-99.pubmatic-match.dotomi.com.
-100.simage2.pubmatic.com.
-101.simage2.pubmatic.com.
-102.image2.pubmatic.com.
-103.image2.pubmatic.com.
-104.image4.pubmatic.com.
-105.image4.pubmatic.com.
-106.sync.srv.stackadapt.com.
-107.dsum.casalemedia.com.
-108.dsum.casalemedia.com.
-109.pr.ybp.yahoo.com.
-110.pr.ybp.yahoo.com.
-111.status.rapidssl.com.
-112.status.rapidssl.com.
-113.dpm.demdex.net.
-114.ocsp.starfieldtech.com.
-115.ocsp.starfieldtech.com.
-116.ocsp.usertrust.com.
-117.ocsp.usertrust.com.
-118.dis.us.criteo.com.
-119.dis.us.criteo.com.
-120.image8.pubmatic.com.
-121.image8.pubmatic.com.
-122.secure.adnxs.com.
-123.secure.adnxs.com.
-124.rtb.gumgum.com.
-125.rtb.gumgum.com.
-126.simage4.pubmatic.com.
-127.simage4.pubmatic.com.
-128.sync.ipredictive.com.
-129.www.yahoo.com.localdomain.
-130.www.yahoo.com.localdomain.
-131.www.yahoo.com.
-132.www.yahoo.com.
-133.ads.pubmatic.com.
-134.ads.pubmatic.com.
-135.image6.pubmatic.com.
-
-dsum.casalemedia.com.: 0 Time:18:04:57.045
-
-dsum.casalemedia.com.: 0 Time:18:04:57.046
-
-pr.ybp.yahoo.com.: 0 Time:18:04:57.058
-
-pr.ybp.yahoo.com.: 0 Time:18:04:57.059
-
-status.rapidssl.com.: 0 Time:18:04:57.071
-
-status.rapidssl.com.: 0 Time:18:04:57.072
-
-dpm.demdex.net.: 0 Time:18:04:57.159
-
-ocsp.starfieldtech.com.: 0 Time:18:04:57.194
-
-ocsp.starfieldtech.com.: 0 Time:18:04:57.195
-
-ocsp.usertrust.com.: 0 Time:18:04:57.206
-
-ocsp.usertrust.com.: 0 Time:18:04:57.207
-
-dis.us.criteo.com.: 0 Time:18:04:57.240
-
-dis.us.criteo.com.: 0 Time:18:04:57.241
-
-image8.pubmatic.com.: 0 Time:18:04:57.260
-
-image8.pubmatic.com.: 0 Time:18:04:57.261
-
-secure.adnxs.com.: 0 Time:18:04:57.356
-
-secure.adnxs.com.: 0 Time:18:04:57.385
-
-rtb.gumgum.com.: 0 Time:18:04:57.421
-
-rtb.gumgum.com.: 0 Time:18:04:57.544
-
-simage4.pubmatic.com.: 0 Time:18:04:57.557
-
-simage4.pubmatic.com.: 0 Time:18:04:57.790
-
-sync.ipredictive.com.: 0 Time:18:04:57.803
-
-www.yahoo.com.localdomain.: 0 Time:18:04:57.823
-
-www.yahoo.com.localdomain.: 0 Time:18:04:58.317
-
-www.yahoo.com.: 0 Time:18:04:58.378
-
-www.yahoo.com.: 0 Time:18:04:58.666
-
-ads.pubmatic.com.: 0 Time:18:04:58.676
-
-ads.pubmatic.com.: 0 Time:18:04:58.917
-
-image6.pubmatic.com.: 0 Time:18:04:58.943
-
-image6.pubmatic.com.: 0 Time:18:05:09.336
-
-px.owneriq.net.: 0 Time:18:05:09.387
-
-px.owneriq.net.: 0 Time:18:05:09.388
-
-a.tribalfusion.com.: 0 Time:18:05:09.400
-
-a.tribalfusion.com.: 106 Time:18:05:26.668
-1.track.celtra.com.
-2.track.celtra.com.
-3.z.moatads.com.
-4.z.moatads.com.
-5.aax-eu.amazon-adsystem.com.
-6.aax-eu.amazon-adsystem.com.
-7.googleads4.g.doubleclick.net.
-8.googleads4.g.doubleclick.net.
-9.2mdn.net.
-10.2mdn.net.
-11.reson8.com.
-12.reson8.com.
-13.tpc.googlesyndication.com.
-14.tpc.googlesyndication.com.
-15.odb.outbrain.com.
-16.odb.outbrain.com.
-17.stags.bluekai.com.
-18.stags.bluekai.com.
-19.sb.scorecardresearch.com.
-20.sb.scorecardresearch.com.
-21.dpm.demdex.net.
-22.sync.search.spotxchange.com.
-23.sync.search.spotxchange.com.
-24.sync-tm.everesttech.net.
-25.sync-tm.everesttech.net.
-26.bea4.v.fwmrm.net.
-27.bea4.v.fwmrm.net.
-28.idsync.rlcdn.com.
-29.idsync.rlcdn.com.
-30.aa.agkn.com.
-31.p.rfihub.com.
-32.p.rfihub.com.
-33.token.rubiconproject.com.
-34.token.rubiconproject.com.
-35.analytics.twitter.com.
-36.analytics.twitter.com.
-37.s.acxiomapac.com.
-38.s.acxiomapac.com.
-39.pixel.quantserve.com.
-40.pixel.quantserve.com.
-41.ml314.com.
-42.r.nexac.com.
-43.r.nexac.com.
-44.ocsp.pki.goog.
-45.ocsp.pki.goog.
-46.cm.g.doubleclick.net.
-47.beacon.krxd.net.
-48.status.thawte.com.
-49.status.thawte.com.
-50.p.rfihub.com.
-51.pixel.quantserve.com.
-52.pixel.adsafeprotected.com.
-53.pixel.adsafeprotected.com.
-54.beacon.krxd.net.
-55.www.googletagmanager.com.
-56.www.googletagmanager.com.
-57.rva.outbrain.com.
-58.rva.outbrain.com.
-59.widgets.staging.tree.com.
-60.as-sec.casalemedia.com.
-61.as-sec.casalemedia.com.
-62.us1.gigya.com.
-63.us1.gigya.com.
-64.pagead2.googlesyndication.com.
-65.pagead2.googlesyndication.com.
-66.geo.moatads.com.
-67.geo.moatads.com.
-68.status.geotrust.com.
-69.status.geotrust.com.
-70.contextual.media.net.
-71.googleads.g.doubleclick.net.
-72.bea4.cnn.com.
-73.bea4.cnn.com.
-74.connect.facebook.net.
-75.connect.facebook.net.
-76.secure.adnxs.com.
-77.secure.adnxs.com.
-78.www.google.com.
-79.www.google.com.
-80.status.rapidssl.com.
-81.status.rapidssl.com.
-82.connect.facebook.net.
-83.secure.adnxs.com.
-84.as-sec.casalemedia.com.
-85.as-sec.casalemedia.com.
-86.ocsp.entrust.net.
-87.ocsp.entrust.net.
-88.us-u.openx.net.
-89.us-u.openx.net.
-90.ocsp.sectigo.com.
-91.ocsp.sectigo.com.
-92.pippio.com.
-93.pippio.com.
-94.d.agkn.com.
-95.d.agkn.com.
-96.choices.truste.com.
-97.choices.truste.com.
-98.r.dlx.addthis.com.
-99.r.dlx.addthis.com.
-100.revee.outbrain.com.
-101.revee.outbrain.com.
-102.s.amazon-adsystem.com.
-103.s.amazon-adsystem.com.
-104.bidder.criteo.com.
-105.bidder.criteo.com.
-106.us1.gigya.com.
-
-data.cnn.com.: 151 Time:18:06:12.340
-1.cm.g.doubleclick.net.
-2.beacon.krxd.net.
-3.status.thawte.com.
-4.status.thawte.com.
-5.p.rfihub.com.
-6.pixel.quantserve.com.
-7.pixel.adsafeprotected.com.
-8.pixel.adsafeprotected.com.
-9.beacon.krxd.net.
-10.www.googletagmanager.com.
-11.www.googletagmanager.com.
-12.rva.outbrain.com.
-13.rva.outbrain.com.
-14.widgets.staging.tree.com.
-15.as-sec.casalemedia.com.
-16.as-sec.casalemedia.com.
-17.us1.gigya.com.
-18.us1.gigya.com.
-19.pagead2.googlesyndication.com.
-20.pagead2.googlesyndication.com.
-21.geo.moatads.com.
-22.geo.moatads.com.
-23.status.geotrust.com.
-24.status.geotrust.com.
-25.contextual.media.net.
-26.googleads.g.doubleclick.net.
-27.bea4.cnn.com.
-28.bea4.cnn.com.
-29.connect.facebook.net.
-30.connect.facebook.net.
-31.secure.adnxs.com.
-32.secure.adnxs.com.
-33.www.google.com.
-34.www.google.com.
-35.status.rapidssl.com.
-36.status.rapidssl.com.
-37.connect.facebook.net.
-38.secure.adnxs.com.
-39.as-sec.casalemedia.com.
-40.as-sec.casalemedia.com.
-41.ocsp.entrust.net.
-42.ocsp.entrust.net.
-43.us-u.openx.net.
-44.us-u.openx.net.
-45.ocsp.sectigo.com.
-46.ocsp.sectigo.com.
-47.pippio.com.
-48.pippio.com.
-49.d.agkn.com.
-50.d.agkn.com.
-51.choices.truste.com.
-52.choices.truste.com.
-53.r.dlx.addthis.com.
-54.r.dlx.addthis.com.
-55.revee.outbrain.com.
-56.revee.outbrain.com.
-57.s.amazon-adsystem.com.
-58.s.amazon-adsystem.com.
-59.bidder.criteo.com.
-60.bidder.criteo.com.
-61.us1.gigya.com.
-62.us1.gigya.com.
-63.cdn.digitru.st.
-64.cdn.digitru.st.
-65.www.facebook.com.
-66.www.facebook.com.
-67.static.adsafeprotected.com.
-68.static.adsafeprotected.com.
-69.rtb-csync.smartadserver.com.
-70.rtb-csync.smartadserver.com.
-71.sync.outbrain.com.
-72.sync.outbrain.com.
-73.d3qdfnco3bamip.cloudfront.net.
-74.d3qdfnco3bamip.cloudfront.net.
-75.ads.stickyadstv.com.
-76.ads.stickyadstv.com.
-77.ad.turn.com.
-78.ad.turn.com.
-79.cms.quantserve.com.
-80.cms.quantserve.com.
-81.px.owneriq.net.
-82.px.owneriq.net.
-83.dclk-match.dotomi.com.
-84.dclk-match.dotomi.com.
-85.sync.mathtag.com.
-86.pr-bh.ybp.yahoo.com.
-87.pr-bh.ybp.yahoo.com.
-88.google2waycm.netmng.com.
-89.google2waycm.netmng.com.
-90.um.simpli.fi.
-91.um.simpli.fi.
-92.pix.impdesk.com.
-93.image2.pubmatic.com.
-94.px.owneriq.net.
-95.revee.outbrain.com.
-96.revee.outbrain.com.
-97.dt.adsafeprotected.com.
-98.dt.adsafeprotected.com.
-99.ocsp.starfieldtech.com.
-100.ocsp.starfieldtech.com.
-101.staticxx.facebook.com.
-102.staticxx.facebook.com.
-103.prospect-cm.dsp.linksynergy.com.
-104.prospect-cm.dsp.linksynergy.com.
-105.r.turn.com.
-106.r.turn.com.
-107.gum.criteo.com.
-108.gum.criteo.com.
-109.tag.bounceexchange.com.
-110.tag.bounceexchange.com.
-111.ping.chartbeat.net.
-112.ping.chartbeat.net.
-113.choices.trustarc.com.
-114.choices.trustarc.com.
-115.assets.bounceexchange.com.
-116.assets.bounceexchange.com.
-117.mab.chartbeat.com.
-118.mab.chartbeat.com.
-119.mms.cnn.com.
-120.mms.cnn.com.
-121.www.summerhamster.com.
-122.www.summerhamster.com.
-123.int-x3.letsencrypt.org.
-124.int-x3.letsencrypt.org.
-125.revee.outbrain.com.
-126.revee.outbrain.com.
-127.revee.outbrain.com.
-128.revee.outbrain.com.
-129.cnn.bounceexchange.com.
-130.cnn.bounceexchange.com.
-131.dfp.bouncex.net.
-132.dfp.bouncex.net.
-133.blocklist.addons.mozilla.org.
-134.blocklist.addons.mozilla.org.
-135.settings.services.mozilla.com.
-136.settings.services.mozilla.com.
-137.px.moatads.com.
-138.px.moatads.com.
-139.events.bouncex.net.
-140.events.bouncex.net.
-141.www.mozilla.org.
-142.www.mozilla.org.
-143.safebrowsing.google.com.
-144.safebrowsing.google.com.
-145.addons.mozilla.org.
-146.addons.mozilla.org.
-147.ocsp.pki.goog.
-148.ocsp.pki.goog.
-149.duckduckgo.com.
-150.duckduckgo.com.
-151.ac.duckduckgo.com.
-
-ocsp.sectigo.com.: 0 Time:18:06:24.167
-
-pippio.com.: 0 Time:18:06:24.181
-
-pippio.com.: 0 Time:18:06:24.182
-
-d.agkn.com.: 0 Time:18:06:24.321
-
-d.agkn.com.: 0 Time:18:06:24.418
-
-choices.truste.com.: 0 Time:18:06:24.583
-
-choices.truste.com.: 0 Time:18:06:25.432
-
-r.dlx.addthis.com.: 0 Time:18:06:25.483
-
-r.dlx.addthis.com.: 0 Time:18:06:25.920
-
-revee.outbrain.com.: 0 Time:18:06:26.013
-
-revee.outbrain.com.: 0 Time:18:06:26.046
-
-s.amazon-adsystem.com.: 0 Time:18:06:26.082
-
-s.amazon-adsystem.com.: 0 Time:18:06:26.293
-
-bidder.criteo.com.: 0 Time:18:06:26.304
-
-bidder.criteo.com.: 0 Time:18:06:26.306
-
-us1.gigya.com.: 0 Time:18:06:26.330
-
-us1.gigya.com.: 0 Time:18:06:26.811
-
-cdn.digitru.st.: 0 Time:18:06:26.907
-
-cdn.digitru.st.: 0 Time:18:06:27.168
-
-www.facebook.com.: 0 Time:18:06:27.181
-
-www.facebook.com.: 0 Time:18:06:27.191
-
-static.adsafeprotected.com.: 0 Time:18:06:27.205
-
-static.adsafeprotected.com.: 0 Time:18:06:27.912
-
-rtb-csync.smartadserver.com.: 0 Time:18:06:27.927
-
-rtb-csync.smartadserver.com.: 0 Time:18:06:27.938
-
-sync.outbrain.com.: 0 Time:18:06:27.950
-
-sync.outbrain.com.: 0 Time:18:06:28.042
-
-d3qdfnco3bamip.cloudfront.net.: 0 Time:18:06:28.095
-
-d3qdfnco3bamip.cloudfront.net.: 0 Time:18:06:28.243
-
-ads.stickyadstv.com.: 0 Time:18:06:28.353
-
-ads.stickyadstv.com.: 0 Time:18:06:28.354
-
-ad.turn.com.: 0 Time:18:06:28.397
-
-ad.turn.com.: 0 Time:18:06:28.564
-
-cms.quantserve.com.: 0 Time:18:06:28.599
-
-cms.quantserve.com.: 0 Time:18:06:29.014
-
-px.owneriq.net.: 0 Time:18:06:29.053
-
-px.owneriq.net.: 0 Time:18:06:29.274
-
-dclk-match.dotomi.com.: 0 Time:18:06:29.309
-
-dclk-match.dotomi.com.: 0 Time:18:06:29.830
-
-sync.mathtag.com.: 0 Time:18:06:29.925
-
-pr-bh.ybp.yahoo.com.: 0 Time:18:06:29.942
-
-pr-bh.ybp.yahoo.com.: 0 Time:18:06:29.974
-
-google2waycm.netmng.com.: 0 Time:18:06:29.988
-
-google2waycm.netmng.com.: 0 Time:18:06:29.989
-
-um.simpli.fi.: 0 Time:18:06:30.043
-
-um.simpli.fi.: 0 Time:18:06:30.048
-
-pix.impdesk.com.: 0 Time:18:06:30.089
-
-image2.pubmatic.com.: 0 Time:18:06:30.168
-
-px.owneriq.net.: 0 Time:18:06:30.181
-
-revee.outbrain.com.: 0 Time:18:06:30.183
-
-revee.outbrain.com.: 0 Time:18:06:30.197
-
-dt.adsafeprotected.com.: 0 Time:18:06:30.199
-
-dt.adsafeprotected.com.: 0 Time:18:06:30.212
-
-ocsp.starfieldtech.com.: 0 Time:18:06:30.216
-
-ocsp.starfieldtech.com.: 0 Time:18:06:30.253
-
-staticxx.facebook.com.: 0 Time:18:06:30.254
-
-staticxx.facebook.com.: 0 Time:18:06:30.265
-
-prospect-cm.dsp.linksynergy.com.: 0 Time:18:06:31.099
-
-prospect-cm.dsp.linksynergy.com.: 0 Time:18:06:31.113
+86.c1.adform.net.
+87.w55c.net.
+88.w55c.net.
+89.w55c.net.
+90.geo.yahoo.com.
+91.geo.yahoo.com.
+92.tps10243.doubleverify.com.
+93.tps10243.doubleverify.com.
+94.tps20226.doubleverify.com.
+95.tps20226.doubleverify.com.
+96.beap-bc.yahoo.com.
+97.beap-bc.yahoo.com.
+98.ade.googlesyndication.com.
+99.ade.googlesyndication.com.
+100.www.baidu.com.
+101.www.baidu.com.
+102.www.baidu.com.
+103.ss1.bdstatic.com.
+104.ss1.bdstatic.com.
+105.ss1.bdstatic.com.
+106.sp0.baidu.com.
+107.sp0.baidu.com.
+108.sp0.baidu.com.
+
+bing.com.: 4 Time:15:06:09.805
+1.bing.com.
+2.bing.com.
+3.www.bing.com.
+4.www.bing.com.
+
+www.bing.com.: 30 Time:15:07:46.329
+1.www.msn.com.
+2.www.msn.com.
+3.www.office.com.
+4.www.office.com.
+5.office.live.com.
+6.office.live.com.
+7.www.onenote.com.
+8.www.onenote.com.
+9.sway.office.com.
+10.sway.office.com.
+11.onedrive.live.com.
+12.onedrive.live.com.
+13.www.bing.com.
+14.www.bing.com.
+15.calendar.live.com.
+16.calendar.live.com.
+17.outlook.live.com.
+18.outlook.live.com.
+19.outlook.com.
+20.outlook.com.
+21.a4.bing.com.
+22.a4.bing.com.
+23.a4.bing.com.
+24.www.bing.com.
+25.www.bing.com.
+26.www.bing.com.
+27.www.bing.com.
+28.www.bing.com.
+29.www.bing.com.
+30.www.bing.com.
+
+a4.bing.com.: 54 Time:15:09:05.332
+1.a4.bing.com.
+2.www.bing.com.
+3.www.bing.com.
+4.www.bing.com.
+5.www.bing.com.
+6.www.bing.com.
+7.www.bing.com.
+8.yastatic.net.
+9.yastatic.net.
+10.yastatic.net.
+11.avatars.mds.yandex.net.
+12.avatars.mds.yandex.net.
+13.avatars.mds.yandex.net.
+14.mc.yandex.ru.
+15.mc.yandex.ru.
+16.zen.yandex.ru.
+17.zen.yandex.ru.
+18.zen.yandex.ru.
+19.mc.yandex.ru.
+20.mc.yandex.ru.
+21.yabs.yandex.ru.
+22.yabs.yandex.ru.
+23.kiks.yandex.ru.
+24.kiks.yandex.ru.
+25.yabs.yandex.ru.
+26.kiks.yandex.ru.
+27.www.tns-counter.ru.
+28.www.tns-counter.ru.
+29.www.tns-counter.ru.
+30.mc.yandex.ru.
+31.mc.yandex.ru.
+32.awaps.yandex.net.
+33.awaps.yandex.net.
+34.awaps.yandex.net.
+35.www.googleadservices.com.
+36.www.googleadservices.com.
+37.www.googleadservices.com.
+38.top-fwz1.mail.ru.
+39.top-fwz1.mail.ru.
+40.vk.com.
+41.vk.com.
+42.vk.com.
+43.googleads.g.doubleclick.net.
+44.googleads.g.doubleclick.net.
+45.googleads.g.doubleclick.net.
+46.mc.yandex.ru.
+47.mc.yandex.ru.
+48.www.google.com.
+49.www.google.com.
+50.www.google.com.
+51.top-fwz1.mail.ru.localdomain.
+52.top-fwz1.mail.ru.localdomain.
+53.top-fwz1.mail.ru.
+54.top-fwz1.mail.ru.
